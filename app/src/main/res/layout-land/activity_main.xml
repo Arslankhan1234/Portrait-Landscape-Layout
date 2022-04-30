@@ -8,9 +8,9 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="204dp"
-        android:layout_height="139dp"
-        android:layout_marginTop="36dp"
+        android:layout_width="243dp"
+        android:layout_height="98dp"
+        android:layout_marginTop="4dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -18,11 +18,11 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="183dp"
+        android:layout_width="142dp"
         android:layout_height="50dp"
-        android:layout_marginTop="72dp"
+        android:layout_marginTop="8dp"
         android:text="Button1"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -30,11 +30,11 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="180dp"
-        android:layout_height="49dp"
-        android:layout_marginTop="72dp"
+        android:layout_width="142dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
         android:text="Button2"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -42,11 +42,11 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="181dp"
-        android:layout_height="54dp"
-        android:layout_marginTop="72dp"
+        android:layout_width="142dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
         android:text="Button3"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
